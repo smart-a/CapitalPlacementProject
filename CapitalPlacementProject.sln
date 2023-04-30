@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{24370A2C-A151-4997-BCC2-E69BF632AF13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{A16A66A7-599C-47E4-8276-44B3547B7AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capital.Placement.Api", "Capital.Placement.Api\Capital.Placement.Api.csproj", "{1019DFAC-E0F8-4A4E-BE10-E7DDAD72A87C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1019DFAC-E0F8-4A4E-BE10-E7DDAD72A87C} = {24370A2C-A151-4997-BCC2-E69BF632AF13}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1019DFAC-E0F8-4A4E-BE10-E7DDAD72A87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1019DFAC-E0F8-4A4E-BE10-E7DDAD72A87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1019DFAC-E0F8-4A4E-BE10-E7DDAD72A87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1019DFAC-E0F8-4A4E-BE10-E7DDAD72A87C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
